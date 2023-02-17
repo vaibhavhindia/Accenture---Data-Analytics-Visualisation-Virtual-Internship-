@@ -24,6 +24,8 @@ Now you know a bit more about the role, let’s get back to the project with Soc
 
 # Read the brief from Social Buzz
  NOTE -- JUST GO THROUGHT THE ABOVE DOCUMENT  
+ 
+ 
 Your first task is to read the brief from Social Buzz and complete a short knowledge check before the call. 
 
 One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
