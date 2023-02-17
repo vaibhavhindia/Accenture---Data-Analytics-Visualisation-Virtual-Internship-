@@ -23,3 +23,13 @@ Check out the video from your Accenture Team member below, and click next to get
 # Here are some resources to help you
 How do you interpret a data model?
 Check the Above data 
+
+# Definitions of different data types:
+
+String - Sequence of characters, digits, or symbols—always treated as text
+
+1. UUID - Universally Unique Identifiers
+2. Array - List with a number of elements in a specific order—typically of the same type
+3. Integer - Numeric data type for numbers without fractions
+4. Timestamp - Number of seconds that have elapsed since midnight (00:00:00 UTC), 1st January 1970 (Unix time)
+
