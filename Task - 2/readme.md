@@ -19,3 +19,7 @@ There is a lot of information here and it’s easy to get lost in the data. So, 
 3. Data modelling
 
 Check out the video from your Accenture Team member below, and click next to get started.
+
+# Here are some resources to help you
+How do you interpret a data model?
+Check the Above data 
