@@ -65,3 +65,30 @@ Think about how each column might be relevant to the business question you’re 
 # Your end result should be three cleaned data sets. 
 
 If you get stuck, we’ll provide some guidance in the next step. But we encourage you to give it a go first!
+
+# Data Modelling
+Okay, we’re nearly there! You’re doing a great job. 
+
+Now we want to figure out the top 5 categories. To complete your data modelling, follow these steps:
+
+1. Create a final data set by merging your three tables together
+
+1. We recommend using the Reaction table as your base table, then first join the relevant columns from your Content data set, and then the Reaction        Types data set.
+2. Hint: You can use a “VLookUp” formula
+ 
+2. Figure out the Top 5 performing categories
+
+1. Add up the total scores for each category.
+2. Hint: You can use the “Sum If” formula
+
+The end result should be one spreadsheet which contains:
+
+1. A cleaned dataset
+2. The top 5 categories
+ 
+Once you have a final data file, upload it to complete this task! We'll provide you with some explanation videos in the next step - but first give it a go to see if you can figure it out. 
+
+You can use Excel or any other tool of your choice to create your final data set.
+
+
+
