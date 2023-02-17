@@ -1,5 +1,9 @@
 # Task 1: Project Understanding
 
+# Skills 
+1. Teamwork
+2. Strategy
+3. Project Planning 
 
 # Key roles and responsibilities of a Data Analyst
 A data analyst sits between the business and the data.
@@ -44,4 +48,17 @@ Big Data refers to large, diverse sets of information that grow at ever-increasi
 
 An IPO stands for Initial Public Offering - this happens when a private company becomes public by selling its shares on a stock exchange. Source: Investopedia.
 
+# Meet your Accenture team
+Great work reading and interpreting the brief from Social Buzz. You’re now ready for your internal meeting with Mae.
+
+So, let’s jump on the call and see who you’re going to be working with, then answer one quick question to move onto your next task! 
+
+If you can't access the video, please use the resources below.
+
+# Here are some resources to help you
+Can’t access the video? See the summary slide of your team here. Notice how the team is structured in three key groups:
+
+1. Industry experts in the social media space to ensure we accurately understand Social Buzz’s sector.
+2. IPO experts who will deliver on the IPO requirement
+3. Data experts who will provide Big Data insights and content category analysis. This is where you sit! 
 
