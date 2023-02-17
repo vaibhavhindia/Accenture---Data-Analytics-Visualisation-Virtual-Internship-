@@ -3,6 +3,16 @@ Modeling Data to create Valuable Insight.
 
 # Skills 
 
+# First up, requirements gathering
+As we mentioned, you have been sent 7 datasets and a data model.
+
+Often you won’t need all these datasets to find what you’re looking for.
+
+So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+
+When you think you’ve identified the right data sets to include, complete the multi choice quiz to move onto the next step.
+
+
 # Let's dive into the data
 Now you have a good understanding of the project and your role - it’s time to get to work!
 
